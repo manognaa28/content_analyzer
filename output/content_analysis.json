@@ -1,0 +1,228 @@
+[
+  {
+    "url": "https://help.moengage.com/hc/en-us/articles/206559303-Dashboard-Overview",
+    "readability": {
+      "score": -4.2333333333333485,
+      "grade_level": 10.423333333333336,
+      "technical_terms": 20,
+      "avg_sentence_length": 12.456140350877194,
+      "sentiment": 0.9886,
+      "recommendations": [
+        "Add more business-focused explanations alongside technical terms"
+      ]
+    },
+    "structure": {
+      "headings": 7,
+      "lists": 0,
+      "paragraphs": 20,
+      "long_paragraphs": 0,
+      "recommendations": [
+        "Use more bullet points or numbered lists to highlight key points"
+      ]
+    },
+    "completeness": {
+      "examples": 0,
+      "steps": 0,
+      "sections": {
+        "prerequisites": false,
+        "setup": true,
+        "configuration": true,
+        "troubleshooting": false
+      },
+      "recommendations": [
+        "Add more practical examples to illustrate concepts",
+        "Break down complex procedures into clear, numbered steps",
+        "Add sections for: prerequisites, troubleshooting"
+      ]
+    },
+    "style": {
+      "passive_voice": 8,
+      "second_person": 33,
+      "complex_sentences": 3,
+      "jargon": 20,
+      "recommendations": [
+        "Reduce technical jargon and provide clear explanations"
+      ]
+    }
+  },
+  {
+    "url": "https://help.moengage.com/hc/en-us/articles/210845683-Live-and-Test-environments",
+    "readability": {
+      "score": -49.13863979848867,
+      "grade_level": 14.913863979848866,
+      "technical_terms": 9,
+      "avg_sentence_length": 26.6,
+      "sentiment": 0.9001,
+      "recommendations": [
+        "Simplify complex sentences and reduce technical jargon for better marketer understanding",
+        "Break down long sentences into shorter, more digestible chunks",
+        "Add more business-focused explanations alongside technical terms"
+      ]
+    },
+    "structure": {
+      "headings": 4,
+      "lists": 0,
+      "paragraphs": 9,
+      "long_paragraphs": 0,
+      "recommendations": [
+        "Use more bullet points or numbered lists to highlight key points"
+      ]
+    },
+    "completeness": {
+      "examples": 0,
+      "steps": 0,
+      "sections": {
+        "prerequisites": false,
+        "setup": true,
+        "configuration": false,
+        "troubleshooting": false
+      },
+      "recommendations": [
+        "Add more practical examples to illustrate concepts",
+        "Break down complex procedures into clear, numbered steps",
+        "Add sections for: prerequisites, configuration, troubleshooting"
+      ]
+    },
+    "style": {
+      "passive_voice": 7,
+      "second_person": 17,
+      "complex_sentences": 6,
+      "jargon": 9,
+      "recommendations": [
+        "Reduce passive voice usage to make content more engaging",
+        "Simplify complex sentences for better readability",
+        "Reduce technical jargon and provide clear explanations"
+      ]
+    }
+  },
+  {
+    "url": "https://help.moengage.com/hc/en-us/articles/36781211059476-Manage-Your-Profile",
+    "readability": {
+      "score": 9.082894736842093,
+      "grade_level": 9.09171052631579,
+      "technical_terms": 0,
+      "avg_sentence_length": 12.578512396694215,
+      "sentiment": 0.9953,
+      "recommendations": []
+    },
+    "structure": {
+      "headings": 69,
+      "lists": 0,
+      "paragraphs": 56,
+      "long_paragraphs": 0,
+      "recommendations": [
+        "Use more bullet points or numbered lists to highlight key points"
+      ]
+    },
+    "completeness": {
+      "examples": 5,
+      "steps": 0,
+      "sections": {
+        "prerequisites": false,
+        "setup": true,
+        "configuration": false,
+        "troubleshooting": false
+      },
+      "recommendations": [
+        "Break down complex procedures into clear, numbered steps",
+        "Add sections for: prerequisites, configuration, troubleshooting"
+      ]
+    },
+    "style": {
+      "passive_voice": 31,
+      "second_person": 112,
+      "complex_sentences": 11,
+      "jargon": 0,
+      "recommendations": [
+        "Reduce passive voice usage to make content more engaging"
+      ]
+    }
+  },
+  {
+    "url": "https://help.moengage.com/hc/en-us/articles/210860483-Manage-Your-Workspaces",
+    "readability": {
+      "score": 28.099999999999994,
+      "grade_level": 7.190000000000001,
+      "technical_terms": 0,
+      "avg_sentence_length": 10.0,
+      "sentiment": 0.4019,
+      "recommendations": []
+    },
+    "structure": {
+      "headings": 1,
+      "lists": 0,
+      "paragraphs": 0,
+      "long_paragraphs": 0,
+      "recommendations": [
+        "Add more descriptive headings to improve content organization"
+      ]
+    },
+    "completeness": {
+      "examples": 0,
+      "steps": 0,
+      "sections": {
+        "prerequisites": false,
+        "setup": false,
+        "configuration": false,
+        "troubleshooting": false
+      },
+      "recommendations": [
+        "Add more practical examples to illustrate concepts",
+        "Break down complex procedures into clear, numbered steps",
+        "Add sections for: prerequisites, setup, configuration, troubleshooting"
+      ]
+    },
+    "style": {
+      "passive_voice": 0,
+      "second_person": 1,
+      "complex_sentences": 0,
+      "jargon": 0,
+      "recommendations": []
+    }
+  },
+  {
+    "url": "https://help.moengage.com/hc/en-us/articles/36774960874004-Navigate-to-Your-Account-s-Login-Page",
+    "readability": {
+      "score": -13.022514619883026,
+      "grade_level": 11.302251461988302,
+      "technical_terms": 0,
+      "avg_sentence_length": 18.0,
+      "sentiment": -0.296,
+      "recommendations": []
+    },
+    "structure": {
+      "headings": 4,
+      "lists": 0,
+      "paragraphs": 6,
+      "long_paragraphs": 0,
+      "recommendations": [
+        "Use more bullet points or numbered lists to highlight key points"
+      ]
+    },
+    "completeness": {
+      "examples": 1,
+      "steps": 0,
+      "sections": {
+        "prerequisites": false,
+        "setup": true,
+        "configuration": false,
+        "troubleshooting": false
+      },
+      "recommendations": [
+        "Add more practical examples to illustrate concepts",
+        "Break down complex procedures into clear, numbered steps",
+        "Add sections for: prerequisites, configuration, troubleshooting"
+      ]
+    },
+    "style": {
+      "passive_voice": 16,
+      "second_person": 32,
+      "complex_sentences": 6,
+      "jargon": 0,
+      "recommendations": [
+        "Reduce passive voice usage to make content more engaging",
+        "Simplify complex sentences for better readability"
+      ]
+    }
+  }
+]
